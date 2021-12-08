@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 #Loading our input Image and displaying it.
-image = cv2.imread("boo.png")
+image = cv2.imread("riflescope.png")
 cv2.imshow('image', image)
 cv2.waitKey(0)
 
